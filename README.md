@@ -1,28 +1,20 @@
-<img src="img/handcuffs.png" align="right" height="100" width="150"/>
+_Academic project by Talha Siddiqui as part of Master of Data Science at University of British Columbia._
 
-# How Safe is America?
+<img src="img/handcuffs.jpg" align="right" height="175" width="250"/>
+
+# [How Safe is America?](https://tsiddiqui.shinyapps.io/americas-safest-cities/)
 Shiny App to explore and compare exactly how safe is America.
 
-| Deployed App |
-|--------------|
-|[How Safe is America?](https://tsiddiqui.shinyapps.io/americas-safest-cities/)|
+### Explore
 
-| Contributors |
-|--------------|
-|[Mohamad Makkaoui](github.com/makka3)|
-|[Talha Siddiqui](github.com/talhaadnan100)|
+Interactive map allows zooming into a desired region of the country to exploring the crime rates and raw figures.
 
-### Recent Updates
+<img src="img/05-explore.png" align="center" height="400" width="700"/>
 
-Milestone 1 [proposal](/proposal.md) for the App
+### Compare
 
-Milestone 2 [write-up](/milestone2_writeup.md) for the App
+Line graph allows easy analysis of crime trends for desired cities.
 
-Milestone 3 [write-up](/milestone3_writeup.md) for the App
+<img src="img/06-compare.png" align="center" height="400" width="700"/>
 
-Milestone 4 [write-up](/milestone4_writeup.md) for the App
-
-| Group | Feedback Provided |
-|--|--|
-|[Olympics Medal Exploration](https://github.com/UBC-MDS/Olympics_Medal_Exploration)|[Feedback](https://github.com/UBC-MDS/Olympics_Medal_Exploration/issues/10)|
-|[Mental Health  in Tech Jobs](https://github.com/UBC-MDS/Mental_Health_in_TechJobs)|[Feedback](https://github.com/UBC-MDS/Mental_Health_in_TechJobs/issues/4)|
+If you'd like to get in touch, contribute to this project, or make a suggestion for new features, please reach me on [my GitHub](https://github.com/talhaadnan100/). Thanks!
